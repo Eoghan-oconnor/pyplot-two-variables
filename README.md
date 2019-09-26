@@ -1,2 +1,2 @@
 # pyplot-two-variables
-This repo contains and Emerging Techonologies
+This repo contains an Emerging Techonologies Lab
